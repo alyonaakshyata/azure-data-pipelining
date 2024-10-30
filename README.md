@@ -18,3 +18,5 @@ This project builds a data pipeline on Azure to process and visualize customer a
 - **Power BI**: For data visualization and reporting.
 - **Azure Key Vault**: For securely managing credentials and secrets.
 - **SQL Server (On-Premises)**: Source of customer and sales data.
+
+Huge thanks to **Mr. K Talks Tech** on Youtube for such a learning resource.
